@@ -1,4 +1,4 @@
-import { IconProps } from "@/app/types/iconProps"
+import { IconProps } from "../types/iconProps";
 
 const Phone = ({ className = "" }: IconProps) => (
     <i className={`icon-[iconoir--phone] ${className}`} />
