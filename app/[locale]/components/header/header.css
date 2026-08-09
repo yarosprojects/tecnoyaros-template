@@ -1,0 +1,8 @@
+header#header .header-mask {
+    mask-image: linear-gradient(
+        to bottom,
+        white 0%,
+        white 80%,
+        transparent 100%
+    );
+}

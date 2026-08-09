@@ -1,0 +1,484 @@
+{
+    "countries": {
+        "spain": "España",
+        "france": "Francia",
+        "germany": "Alemania",
+        "italy": "Italia",
+        "united_kingdom": "Reino Unido",
+        "portugal": "Portugal",
+        "netherlands": "Países Bajos",
+        "belgium": "Bélgica",
+        "switzerland": "Suiza",
+        "austria": "Austria",
+        "sweden": "Suecia",
+        "norway": "Noruega",
+        "denmark": "Dinamarca",
+        "ireland": "Irlanda",
+        "poland": "Polonia",
+        "greece": "Grecia",
+        "finland": "Finlandia",
+        "czech_republic": "República Checa",
+        "hungary": "Hungría",
+        "romania": "Rumania",
+        "ukraine": "Ucrania",
+        "russia": "Rusia",
+        "belarus": "Bielorrusia",
+        "turkey": "Turquía",
+        "serbia": "Serbia",
+        "croatia": "Croacia",
+        "bulgaria": "Bulgaria",
+        "slovakia": "Eslovaquia",
+        "lithuania": "Lituania",
+        "latvia": "Letonia",
+        "estonia": "Estonia",
+        "slovenia": "Eslovenia",
+        "luxembourg": "Luxemburgo",
+        "andorra": "Andorra",
+        "malta": "Malta",
+        "iceland": "Islandia",
+        "monaco": "Mónaco",
+        "moldova": "Moldavia",
+        "cyprus": "Chipre",
+        "montenegro": "Montenegro",
+        "north_macedonia": "Macedonia del Norte",
+        "albania": "Albania",
+        "united_states": "Estados Unidos",
+        "canada": "Canadá",
+        "mexico": "México",
+        "costa_rica": "Costa Rica",
+        "panama": "Panamá",
+        "guatemala": "Guatemala",
+        "el_salvador": "El Salvador",
+        "honduras": "Honduras",
+        "nicaragua": "Nicaragua",
+        "cuba": "Cuba",
+        "dominican_republic": "República Dominicana",
+        "puerto_rico": "Puerto Rico",
+        "brazil": "Brasil",
+        "argentina": "Argentina",
+        "chile": "Chile",
+        "colombia": "Colombia",
+        "peru": "Perú",
+        "venezuela": "Venezuela",
+        "ecuador": "Ecuador",
+        "bolivia": "Bolivia",
+        "paraguay": "Paraguay",
+        "uruguay": "Uruguay",
+        "japan": "Japón",
+        "south_korea": "Corea del Sur",
+        "china": "China",
+        "india": "India",
+        "thailand": "Tailandia",
+        "singapore": "Singapur",
+        "vietnam": "Vietnam",
+        "malaysia": "Malasia",
+        "indonesia": "Indonesia",
+        "philippines": "Filipinas",
+        "united_arab_emirates": "Emiratos Árabes",
+        "saudi_arabia": "Arabia Saudita",
+        "israel": "Israel",
+        "qatar": "Catar",
+        "south_africa": "Sudáfrica",
+        "egypt": "Egipto",
+        "nigeria": "Nigeria",
+        "morocco": "Marruecos",
+        "kenya": "Kenia",
+        "australia": "Australia",
+        "new_zealand": "Nueva Zelanda"
+    },
+    "title": "Hola mundo",
+    "form": {
+        "name": "Nombre",
+        "subject": "Asunto",
+        "email": "Correo electrónico",
+        "phone": "Teléfono",
+        "message": "Mensaje",
+        "submit": "Enviar",
+        "fields_marked_with": "Los campos marcados con un asterisco",
+        "are_mandatory": "son obligatorios",
+        "reason_for_contact": "Motivo de contacto",
+        "errors": {
+            "email_required": "Introduce un correo electrónico.",
+            "email_invalid": "Correo electrónico no válido.",
+            "subject_required": "Introduce un asunto.",
+            "reason_required": "Escribe el motivo del contacto.",
+            "privacy_required": "Debes aceptar la política de privacidad.",
+            "submit_failed": "Ha ocurrido un error."
+        },
+        "success": {
+            "submitted": "Solicitud enviada correctamente."
+        }
+    },
+    "search_tags": {
+        "no_results": "No se han encontrado resultados para tu búsqueda.",
+        "no_matches": "No hay coincidencias",
+        "total": "Total",
+        "search_placeholder": "Buscar..."
+    },
+    "header": {
+        "months": {
+            "January": "de enero de",
+            "February": "de febrero de",
+            "March": "de marzo de",
+            "April": "de abril de",
+            "May": "de mayo de",
+            "June": "de junio de",
+            "July": "de julio de",
+            "August": "de agosto de",
+            "September": "de septiembre de",
+            "October": "de octubre de",
+            "November": "de noviembre de",
+            "December": "de diciembre de"
+        }
+    },
+    "Home": {
+        "title": "Servicios profesionales de calidad",
+        "slogan": "Estamos construyendo este proyecto con seriedad y dedicación, cuidando cada servicio como si fuera único.",
+        "float_labels": {
+            "objectives": "Objetivos"
+        },
+        "why_trust_us": "Por qué confiar en éste negocio",
+        "we_are_working_with_focus": "Trabajamos con un enfoque profesional, claro y transparente desde el primer contacto.",
+        "texts": [
+            "Soluciones personalizadas a las peticiones del cliente",
+            "Contacto constante con el cliente",
+            "Respuestas adaptadas a las necesidades de cada cliente",
+            "Comunicación clara y profesional",
+            "Soluciones profesionales basadas en la experiéncia real"
+        ],
+        "objectives": [
+            "Nuestro principal objetivo es ofrecer soluciones claras, eficientes y adaptadas a cada necesidad del cliente.",
+            "Trabajamos con un trato cercano y transparente para que el cliente se sienta acompañado en todo el proceso.",
+            "Nos comprometemos a mantener una comunicación constante, clara y profesional durante cada fase del proyecto.",
+            "Garantizamos resultados fiables y de calidad, basados en la experiencia real y en buenas prácticas.",
+            "Cada proyecto se desarrolla con atención al detalle, buscando siempre la máxima comodidad para el cliente.",
+            "Nuestro objetivo final es generar confianza, ofreciendo un servicio sólido, honesto y duradero en el tiempo."
+        ],
+        "buttons": {
+            "viewServices": "Ver todos los servicios",
+            "requestService": "Solicitar un servicio"
+        }
+    },
+    "aside": {
+        "links": {
+            "home": "Inicio",
+            "services": "Servicios",
+            "contact": "Contacto",
+            "web_development": "Desarrollo de páginas web",
+            "ps_maintenance": "Mantenimiento PlayStation",
+            "pc_maintenance": "Mantenimiento de PCs",
+            "windows_formatting": "Formateo Windows",
+            "pc_assembly": "Montaje de PCs",
+            "privacy": "Política de privacidad",
+            "cookies": "Política de cookies"
+        }
+    },
+    "services_tags": {
+        "title": "Servicios",
+        "request_tag": "Solicita el servicio",
+        "request_button": "Solicitar servicio",
+        "service_requested": "Servicio solicitado"
+    },
+    "const_services": {
+        "web_development": {
+            "label": "Desarrollo de páginas web",
+            "description": "Creación de páginas web a medida, optimizadas para empresas y particulares, adaptadas a cualquier dispositivo. Enfocadas en rendimiento, accesibilidad y experiencia de usuario, garantizando soluciones modernas, eficientes y preparadas para crecer con tu negocio.",
+            "short": "Creación de páginas web"
+        },
+        "ps_maintenance": {
+            "label": "Mantenimiento y limpieza de consolas PlayStation",
+            "description": "Servicio de mantenimiento y limpieza para consolas PlayStation, que incluye la eliminación de polvo, revisión de componentes internos, actualización de software y solución de problemas comunes para garantizar un rendimiento óptimo.",
+            "short": "Mantenimiento PlayStation"
+        },
+        "pc_maintenance": {
+            "label": "Mantenimiento, limpieza y montaje de ordenadores y portátiles",
+            "description": "Servicio integral de mantenimiento, limpieza y montaje de ordenadores y portátiles, que abarca desde la limpieza interna para mejorar la ventilación hasta la instalación de componentes y la optimización del rendimiento del sistema.",
+            "short": "Mantenimiento de PCs"
+        },
+        "windows_formatting": {
+            "label": "Formateo de sistemas operativos Windows",
+            "description": "Servicio de formateo de sistemas operativos Windows, que incluye la reinstalación del sistema operativo, la configuración inicial y la instalación de controladores y software necesario para garantizar un funcionamiento fluido y seguro.",
+            "short": "Formateo Windows"
+        },
+        "pc_assembly": {
+            "label": "Montaje y mantenimiento de PCs",
+            "description": "Servicio de montaje y mantenimiento de PCs, que abarca desde la selección y ensamblaje de componentes personalizados hasta el mantenimiento regular para asegurar un rendimiento óptimo y la longevidad del equipo.",
+            "short": "Montaje de PCs"
+        }
+    },
+    "privacy_tags": {
+        "privacy_policy": "Política de privacidad",
+        "accept_manage_my_data_v1": "Acepto que mis datos sean utilizados para responder a mi consulta.",
+        "for_more_details_consult_v1": " Para más detalles, consultar la"
+    },
+    "privacy": {
+        "updated_at": "Actualizado el",
+        "title": "Política de privacidad",
+        "intro": "En cumplimiento de lo dispuesto en el Reglamento (UE) 2016/679 (RGPD) y la Ley Orgánica 3/2018 (LOPDGDD), se informa al usuario de la presente política de privacidad.",
+        "items": {
+            "controller": {
+                "title": "Responsable del tratamiento:"
+            },
+            "data_collected": {
+                "title": "Datos recopilados:",
+                "desc": "Podemos recopilar información como nombre, correo electrónico, teléfono y cualquier dato proporcionado mediante formularios, así como datos de navegación."
+            },
+            "purpose": {
+                "title": "Finalidad del tratamiento:",
+                "desc": "Los datos se utilizan para gestionar solicitudes, prestar servicios, comunicarnos con el usuario y mejorar la experiencia en el sitio web."
+            },
+            "legal_basis": {
+                "title": "Base legal:",
+                "desc": "El tratamiento de datos se basa en el consentimiento del usuario, la ejecución de un contrato o el cumplimiento de obligaciones legales."
+            },
+            "retention": {
+                "title": "Conservación de datos:",
+                "desc": "Los datos se conservarán durante el tiempo necesario para cumplir con la finalidad para la que fueron recogidos o hasta que el usuario solicite su eliminación."
+            },
+            "transfers": {
+                "title": "Cesión de datos:",
+                "desc": "No se cederán datos a terceros salvo obligación legal o cuando sea necesario para la prestación del servicio (por ejemplo, proveedores de hosting)."
+            },
+            "rights": {
+                "title": "Derechos del usuario:",
+                "desc": "El usuario puede ejercer sus derechos de acceso, rectificación, supresión, limitación, oposición y portabilidad contactando con el responsable del tratamiento."
+            },
+            "security": {
+                "title": "Seguridad:",
+                "desc": "Se aplican medidas técnicas y organizativas adecuadas para proteger los datos personales."
+            },
+            "cookies": {
+                "title": "Cookies:",
+                "desc": "Este sitio puede utilizar cookies para mejorar la experiencia del usuario. Se recomienda revisar la política de cookies para más información."
+            },
+            "modifications": {
+                "title": "Modificaciones:",
+                "desc": "Nos reservamos el derecho de modificar esta política para adaptarla a cambios legislativos o del propio sitio web."
+            }
+        }
+    },
+    "cookies_page": {
+        "updated_at": "Actualizado el {date}",
+        "title": "Política de cookies",
+        "intro": "Esta web utiliza cookies para mejorar la experiencia del usuario, analizar el uso del sitio y, en algunos casos, ofrecer contenido personalizado.",
+        "sections": {
+            "what_are": {
+                "title": "¿Qué son las cookies?",
+                "text": "Las cookies son pequeños archivos que se almacenan en tu dispositivo cuando visitas una página web. Sirven para recordar información sobre tu visita."
+            },
+            "types": {
+                "title": "Tipos de cookies utilizadas",
+                "intro": "Este sitio utiliza diferentes tipos de cookies:",
+                "necessary": {
+                    "label": "Necesarias",
+                    "text": "imprescindibles para el funcionamiento básico del sitio."
+                },
+                "analytics": {
+                    "label": "Analytics",
+                    "text": "permiten analizar el uso del sitio para mejorar la experiencia."
+                },
+                "marketing": {
+                    "label": "Marketing",
+                    "text": "utilizadas para mostrar contenido o publicidad relevante."
+                }
+            },
+            "purpose": {
+                "title": "Finalidad de las cookies",
+                "text": "Las cookies se utilizan para recordar tus preferencias, analizar el tráfico del sitio y mejorar los servicios ofrecidos."
+            },
+            "management": {
+                "title": "Gestión de cookies",
+                "text": "Puedes aceptar, rechazar o configurar las cookies mediante el sistema de gestión disponible en este sitio. Tus preferencias se almacenan en tu navegador."
+            },
+            "storage": {
+                "title": "Almacenamiento de preferencias",
+                "text": "Las preferencias de cookies se guardan en tu navegador mediante almacenamiento local (localStorage), lo que permite recordar tu elección en futuras visitas."
+            },
+            "disable": {
+                "title": "Cómo desactivar cookies",
+                "text": "Puedes eliminar o bloquear las cookies desde la configuración de tu navegador. Ten en cuenta que algunas funcionalidades del sitio podrían verse afectadas."
+            },
+            "third_party": {
+                "title": "Cookies de terceros",
+                "text": "En caso de activar cookies de análisis o marketing, podrían utilizarse servicios de terceros que recopilen información de forma anonimizada."
+            },
+            "legal_basis": {
+                "title": "Base legal",
+                "text": "El uso de cookies no necesarias se basa en el consentimiento del usuario, que puede modificarse en cualquier momento."
+            },
+            "modifications": {
+                "title": "Modificaciones",
+                "text": "Esta política de cookies puede actualizarse para adaptarse a cambios legales o técnicos del sitio web."
+            }
+        }
+    },
+    "sponsors": {
+        "title": "Nuestros patrocinadores",
+        "support_out_project": "Apoya nuestro proyecto",
+        "become_a_sponsor": "Conviértete en patrocinador"
+    },
+    "sponsors_page": {
+        "hero": {
+            "tag": "Alianzas Estratégicas",
+            "title": "Nuestros Patrocinadores",
+            "description": "Gracias al respaldo de empresas comprometidas con la excelencia y el desarrollo, impulsamos cada uno de nuestros proyectos con la máxima calidad."
+        },
+        "current": {
+            "title": "Empresas que confían en nosotros",
+            "online": "En línea",
+            "visit_web": "Visitar web"
+        },
+        "plans": {
+            "title": "Planes de Patrocinio",
+            "subtitle": "Únete a nuestra red de colaboradores y posiciona tu marca ante nuestra comunidad con opciones hechas a medida.",
+            "most_popular": "Más Popular",
+            "cta": "Unirme como Patrocinador"
+        },
+        "tiers": {
+            "bronze": {
+                "name": "Plan Bronce",
+                "period": "/ año",
+                "description": "Ideal para pequeños comercios y profesionales independientes que desean respaldar el proyecto.",
+                "features": [
+                    "Logotipo en la sección general de Sponsors",
+                    "Enlace directo 'dofollow' a tu sitio web",
+                    "Mención en nuestras redes sociales",
+                    "Insignia digital de colaborador"
+                ]
+            },
+            "silver": {
+                "name": "Plan Plata",
+                "period": "/ año",
+                "description": "La opción perfecta para empresas consolidadas que buscan visibilidad constante y destacada.",
+                "features": [
+                    "Todo lo incluido en el Plan Bronce",
+                    "Posición preferente y destacada en la portada",
+                    "Ficha corporativa en la página de Patrocinadores",
+                    "Publicación de nota de prensa / artículo dedicado",
+                    "Soporte prioritario y visibilidad en eventos"
+                ]
+            },
+            "gold": {
+                "name": "Plan Oro",
+                "period": "/ año",
+                "description": "Para grandes aliados estratégicos que quieren maximizar su impacto corporativo y presencia global.",
+                "features": [
+                    "Todo lo incluido en el Plan Plata",
+                    "Logo exclusivo en la cabecera / pie de página global",
+                    "Banner promocional personalizado en la plataforma",
+                    "Co-branding en campañas de comunicación principales",
+                    "Acceso directo a colaboraciones exclusivas"
+                ]
+            }
+        },
+        "custom": {
+            "title": "¿Necesitas un plan a medida?",
+            "description": "Podemos adaptar una propuesta personalizada acorde a los objetivos específicos de difusión e impacto de tu empresa.",
+            "cta": "Contactar con el equipo"
+        }
+    },
+    "themes": {
+        "light": "Claro",
+        "dark": "Oscuro",
+        "system": "Sistema"
+    },
+    "contact_page": {
+        "contact_with_us": "Contacta con nosotros"
+    },
+    "footer": {
+        "all_rights_reserved": "Todos los derechos reservados",
+        "manage_cookies": "Gestionar cookies"
+    },
+    "cookie_alert": {
+        "this_web": "Este sitio web utiliza cookies para mejorar tu experiencia",
+        "more_info": "Más información",
+        "reject_no_essentials": "Rechazar no esenciales",
+        "manage": "Gestionar",
+        "accept": "Aceptar"
+    },
+    "cookie_config": {
+        "title": "Preferencias de cookies",
+        "description": "Usamos cookies para mejorar tu experiencia. Puedes aceptar todas o configurar tus preferencias",
+        "essentials": "Cookies esenciales",
+        "always_active": "Siempre activas",
+        "analytics": "Analíticas",
+        "marketing": "Marketing",
+        "more_info_about": "Más información sobre nuestra",
+        "privacy_policy": "política de privacidad",
+        "decline": "Rechazar",
+        "save": "Guardar",
+        "accept_all": "Aceptar todo"
+    },
+    "sponsors_data": {
+        "official_sponsor": "Patrocinador Oficial",
+        "joan_olive": {
+            "name": "Joan Olivé S.L.",
+            "category": "Gestión de Residuos y Reciclaje de Madera",
+            "description": "Con más de 40 años de trayectoria, en Joan Olivé S.L. son especialistas en la recolección, tratamiento y reciclaje de residuos de madera, serrines y virutas. Comprometidos con la economía circular, recuperan hasta el 80% del material para transformarlo en abonos orgánicos, lechos para granjas y nuevas materias primas sostenibles."
+        },
+        "balas_de_viruta": {
+            "name": "Balas de Viruta",
+            "category": "Producción y Distribución de Viruta Natural",
+            "description": "Especialistas en la fabricación, prensado y distribución de balas de viruta de madera 100% natural y libre de polvo. Sus productos destacan por su alta capacidad de absorción y protección sanitaria, siendo la solución ideal para el lecho y confort de animales en granjas, centros hípicos y uso ganadero."
+        }
+    },
+    "confidences": [
+        {
+            "icon": "icon-[ph--handshake]",
+            "title": "Trato cercano",
+            "text": "Comunicación directa, clara y sin tecnicismos innecesarios."
+        },
+        {
+            "icon": "icon-[ph--clipboard-text]",
+            "title": "Presupuesto claro",
+            "text": "Siempre antes de empezar, sin sorpresas ni costes ocultos."
+        },
+        {
+            "icon": "icon-[ph--clock]",
+            "title": "Respuesta rápida",
+            "text": "Valoramos tu tiempo y respondemos lo antes posible."
+        },
+        {
+            "icon": "icon-[ph--seal-check]",
+            "title": "Trabajo responsable",
+            "text": "Cada servicio se realiza con atención al detalle y compromiso."
+        }
+    ],
+    "planpage": {
+        "not_found": {
+            "title": "Plan no encontrado",
+            "back_link": "Volver a la lista de planes"
+        },
+        "back_to_all": "Volver a todos los planes",
+        "benefits_included": "Beneficios incluidos:",
+        "form": {
+            "title": "Solicitar patrocinio {name}",
+            "subtitle": "Completa el siguiente formulario y nos pondremos en contacto contigo a la brevedad.",
+            "company_name": "Nombre de la empresa",
+            "company_name_placeholder": "Ej. Tech Solutions S.L.",
+            "contact_name": "Persona de contacto",
+            "contact_name_placeholder": "Ej. María García",
+            "email": "Correo electrónico",
+            "email_placeholder": "maria@empresa.com",
+            "phone": "Teléfono de contacto",
+            "phone_placeholder": "+34 600 000 000",
+            "notes": "Notas adicionales o comentarios",
+            "notes_placeholder": "Indícanos cualquier duda o requerimiento especial...",
+            "submitting": "Enviando solicitud...",
+            "submit_button": "Solicitar Plan {name}",
+            "errors": {
+                "company_required": "El nombre de la empresa es obligatorio.",
+                "contact_required": "El nombre de contacto es obligatorio.",
+                "email_required": "Introduce un correo electrónico.",
+                "email_invalid": "Correo electrónico no válido.",
+                "submit_failed": "Ha ocurrido un error al enviar la solicitud.",
+                "phone_required": "El teléfono de contacto es obligatorio."
+            },
+            "success": {
+                "title": "¡Solicitud recibida!",
+                "message": "Gracias por tu interés en el plan {name}. Nuestro equipo revisará la información y se pondrá en contacto muy pronto.",
+                "submitted": "Solicitud enviada correctamente."
+            }
+        }
+    }
+}

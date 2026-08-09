@@ -1,0 +1,484 @@
+{
+    "title": "Hola món",
+    "countries": {
+        "spain": "Espanya",
+        "france": "França",
+        "germany": "Alemanya",
+        "italy": "Itàlia",
+        "united_kingdom": "Regne Unit",
+        "portugal": "Portugal",
+        "netherlands": "Països Baixos",
+        "belgium": "Bèlgica",
+        "switzerland": "Suïssa",
+        "austria": "Àustria",
+        "sweden": "Suècia",
+        "norway": "Noruega",
+        "denmark": "Dinamarca",
+        "ireland": "Irlanda",
+        "poland": "Polònia",
+        "greece": "Grècia",
+        "finland": "Finlàndia",
+        "czech_republic": "República Txeca",
+        "hungary": "Hongria",
+        "romania": "Romania",
+        "ukraine": "Ucraïna",
+        "russia": "Rússia",
+        "belarus": "Bielorússia",
+        "turkey": "Turquia",
+        "serbia": "Sèrbia",
+        "croatia": "Croàcia",
+        "bulgaria": "Bulgària",
+        "slovakia": "Eslovàquia",
+        "lithuania": "Lituània",
+        "latvia": "Letònia",
+        "estonia": "Estònia",
+        "slovenia": "Eslovènia",
+        "luxembourg": "Luxemburg",
+        "andorra": "Andorra",
+        "malta": "Malta",
+        "iceland": "Islàndia",
+        "monaco": "Mònaco",
+        "moldova": "Moldàvia",
+        "cyprus": "Xipre",
+        "montenegro": "Montenegro",
+        "north_macedonia": "Macedònia del Nord",
+        "albania": "Albània",
+        "united_states": "Estats Units",
+        "canada": "Canadà",
+        "mexico": "Mèxic",
+        "costa_rica": "Costa Rica",
+        "panama": "Panamà",
+        "guatemala": "Guatemala",
+        "el_salvador": "El Salvador",
+        "honduras": "Hondures",
+        "nicaragua": "Nicaragua",
+        "cuba": "Cuba",
+        "dominican_republic": "República Dominicana",
+        "puerto_rico": "Puerto Rico",
+        "brazil": "Brasil",
+        "argentina": "Argentina",
+        "chile": "Xile",
+        "colombia": "Colòmbia",
+        "peru": "Perú",
+        "venezuela": "Veneçuela",
+        "ecuador": "Equador",
+        "bolivia": "Bolívia",
+        "paraguay": "Paraguai",
+        "uruguay": "Uruguai",
+        "japan": "Japó",
+        "south_korea": "Corea del Sud",
+        "china": "Xina",
+        "india": "Índia",
+        "thailand": "Tailàndia",
+        "singapore": "Singapur",
+        "vietnam": "Vietnam",
+        "malaysia": "Malàisia",
+        "indonesia": "Indonèsia",
+        "philippines": "Filipines",
+        "united_arab_emirates": "Emirats Àrabs Units",
+        "saudi_arabia": "Aràbia Saudita",
+        "israel": "Israel",
+        "qatar": "Catar",
+        "south_africa": "Sud-àfrica",
+        "egypt": "Egipte",
+        "nigeria": "Nigèria",
+        "morocco": "Marroc",
+        "kenya": "Kènia",
+        "australia": "Austràlia",
+        "new_zealand": "Nova Zelanda"
+    },
+    "form": {
+        "name": "Nom",
+        "subject": "Assumpte",
+        "email": "Correu electrònic",
+        "phone": "Telèfon",
+        "message": "Missatge",
+        "submit": "Enviar",
+        "fields_marked_with": "Els camps marcats amb un asterisc",
+        "are_mandatory": "són obligatoris",
+        "reason_for_contact": "Motiu de contacte",
+        "errors": {
+            "email_required": "Introdueix un correu electrònic.",
+            "email_invalid": "Correu electrònic no vàlid.",
+            "subject_required": "Introdueix un assumpte.",
+            "reason_required": "Escriu el motiu del contacte.",
+            "privacy_required": "Has d'acceptar la política de privacitat.",
+            "submit_failed": "S'ha produït un error."
+        },
+        "success": {
+            "submitted": "Sol·licitud enviada correctament."
+        }
+    },
+    "search_tags": {
+        "no_results": "No s'han trobat resultats per a la teva cerca.",
+        "no_matches": "Sense coincidències",
+        "total": "Total",
+        "search_placeholder": "Cercar..."
+    },
+    "header": {
+        "months": {
+            "January": "de gener de",
+            "February": "de febrer de",
+            "March": "de març de",
+            "April": "d'abril de",
+            "May": "de maig de",
+            "June": "de juny de",
+            "July": "de juliol de",
+            "August": "d'agost de",
+            "September": "de setembre de",
+            "October": "d'octubre de",
+            "November": "de novembre de",
+            "December": "de desembre de"
+        }
+    },
+    "Home": {
+        "title": "Serveis professionals de qualitat",
+        "slogan": "Estem construint aquest projecte amb serietat i dedicació, cuidant cada servei com si fos únic.",
+        "float_labels": {
+            "objectives": "Objectius"
+        },
+        "why_trust_us": "Per què confiar en aquest negoci?",
+        "we_are_working_with_focus": "Treballem amb un enfocament professional, clar i transparent des del primer contacte.",
+        "texts": [
+            "Solucions personalitzades a les peticions del client",
+            "Contacte constant amb el client",
+            "Respostes adaptades a les necessitats de cada client",
+            "Comunicació clara i professional",
+            "Solucions professionals basades en l'experiència real"
+        ],
+        "objectives": [
+            "El nostre principal objectiu és oferir solucions clares, eficients i adaptades a cada necessitat del client.",
+            "Treballem amb un tracte proper i transparent perquè el client es senti acompanyat en tot el procés.",
+            "Ens mecomprometem a mantenir una comunicació constant, clara i professional durant cada fase del projecte.",
+            "Garantim resultats fiables i de qualitat, basats en l'experiència real i en bones pràctiques.",
+            "Cada projecte es desenvolupa amb atenció al detall, buscant sempre la màxima comoditat per al client.",
+            "El nostre objectiu final és generar confiança, oferint un servei sòlid, honest i durador en el temps."
+        ],
+        "buttons": {
+            "viewServices": "Veure tots els serveis",
+            "requestService": "Sol·licitar un servei"
+        }
+    },
+    "aside": {
+        "links": {
+            "home": "Inici",
+            "services": "Serveis",
+            "contact": "Contacte",
+            "web_development": "Desenvolupament de pàgines web",
+            "ps_maintenance": "Manteniment PlayStation",
+            "pc_maintenance": "Manteniment de PCs",
+            "windows_formatting": "Formatat Windows",
+            "pc_assembly": "Muntatge de PCs",
+            "privacy": "Política de privacitat",
+            "cookies": "Política de cookies"
+        }
+    },
+    "services_tags": {
+        "title": "Serveis",
+        "request_tag": "Sol·licita el servei",
+        "request_button": "Sol·licitar servei",
+        "service_requested": "Servei sol·licitat"
+    },
+    "const_services": {
+        "web_development": {
+            "label": "Desenvolupament de pàgines web",
+            "description": "Creació de pàgines web a mida, optimitzades per a empreses i particulars, adaptades a qualsevol dispositiu. Enfocades en rendiment, accessibilitat i experiència d'usuari, garantint solucions modernes, eficients i preparades per créixer amb el teu negoci.",
+            "short": "Creació de pàgines web"
+        },
+        "ps_maintenance": {
+            "label": "Manteniment i neteja de consoles PlayStation",
+            "description": "Servei de manteniment i neteja per a consoles PlayStation, que inclou l'eliminació de pols, revisió de components interns, actualització de programari i resolució de problemes comuns per garantir un rendiment òptim.",
+            "short": "Manteniment PlayStation"
+        },
+        "pc_maintenance": {
+            "label": "Manteniment, neteja i muntatge d'ordinadors i portàtils",
+            "description": "Servei integral de manteniment, neteja i muntatge d'ordinadors i portàtils, que abasta des de la neteja interna per millorar la ventilació fins a la instal·lació de components i l'optimització del rendiment del sistema.",
+            "short": "Manteniment de PCs"
+        },
+        "windows_formatting": {
+            "label": "Formatat de sistemes operatius Windows",
+            "description": "Servei de formatat de sistemes operatius Windows, que inclou la Reinstal·lació del sistema operatiu, la configuració inicial i la instal·lació de controladors i programari necessari per garantir un funcionament fluid i segur.",
+            "short": "Formatat Windows"
+        },
+        "pc_assembly": {
+            "label": "Muntatge i manteniment de PCs",
+            "description": "Servei de muntatge i manteniment de PCs, que abasta des de la selecció i l'ensamblatge de components personalitzats fins al manteniment regular per assegurar un rendiment òptim i la longevitat de l'equip.",
+            "short": "Muntatge de PCs"
+        }
+    },
+    "privacy_tags": {
+        "privacy_policy": "Política de privacitat",
+        "accept_manage_my_data_v1": "Acepto que les meves dades siguin utilitzades per respondre a la meva consulta.",
+        "for_more_details_consult_v1": " Per a més detalls, consultar la"
+    },
+    "privacy": {
+        "updated_at": "Actualitzat el",
+        "title": "Política de privacitat",
+        "intro": "En compliment del que disposa el Reglament (UE) 2016/679 (RGPD) i la Llei Orgànica 3/2018 (LOPDGDD), s'informa a l'usuari d'aquesta política de privacitat.",
+        "items": {
+            "controller": {
+                "title": "Responsable del tractament:"
+            },
+            "data_collected": {
+                "title": "Dades recopilades:",
+                "desc": "Podem recopilar informació com ara nom, correu electrònic, telèfon i qualsevol dada proporcionada mitjançant formularis, així com dades de navegació."
+            },
+            "purpose": {
+                "title": "Finalitat del tractament:",
+                "desc": "Les dades s'utilitzen per gestionar sol·licituds, prestar serveis, comunicar-nos amb l'usuari i millorar l'experiència al lloc web."
+            },
+            "legal_basis": {
+                "title": "Base legal:",
+                "desc": "El tractament de dades es basa en el consentiment de l'usuari, l'execució d'un contracte o el compliment d'obligacions legals."
+            },
+            "retention": {
+                "title": "Conservació de dades:",
+                "desc": "Les dades es conservaran durant el temps necessari per complir amb la finalitat per a la qual van ser recollides o fins que l'usuari sol·liciti la seva eliminació."
+            },
+            "transfers": {
+                "title": "Cessió de dades:",
+                "desc": "No es cediran dades a tercers excepte per obligació legal o quan sigui necessari per a la prestació del servei (per exemple, proveïdors d'allotjament web)."
+            },
+            "rights": {
+                "title": "Drets de l'usuari:",
+                "desc": "L'usuari pot exercir els seus drets d'accés, rectificació, supressió, limitació, oposició i portabilitat contactant amb el responsable del tractament."
+            },
+            "security": {
+                "title": "Seguretat:",
+                "desc": "S'apliquen mesures tècniques i organitzatives adequades per protegir les dades personals."
+            },
+            "cookies": {
+                "title": "Cookies:",
+                "desc": "Aquest lloc pot utilitzar cookies per millorar l'experiència de l'usuari. Es recomana revisar la política de cookies per a més informació."
+            },
+            "modifications": {
+                "title": "Modificacions:",
+                "desc": "Ens reservem el dret de modificar aquesta política per adaptar-la a canvis legislatius o del propi lloc web."
+            }
+        }
+    },
+    "cookies_page": {
+        "updated_at": "Actualitzat el {date}",
+        "title": "Política de cookies",
+        "intro": "Aquest lloc web utilitza cookies per millorar l'experiència de l'usuari, analitzar l'ús del lloc i, en alguns casos, oferir contingut personalitzat.",
+        "sections": {
+            "what_are": {
+                "title": "Què són les cookies?",
+                "text": "Les cookies són petits fitxers que s'emmagatzemen al teu dispositiu quan visites un lloc web. Serveixen per recordar informació sobre la teva visita."
+            },
+            "types": {
+                "title": "Tipus de cookies utilitzades",
+                "intro": "Aquest lloc utilitza diferents tipus de cookies:",
+                "necessary": {
+                    "label": "Necessàries",
+                    "text": "essencials per al funcionament bàsic del lloc."
+                },
+                "analytics": {
+                    "label": "Analítiques",
+                    "text": "permeten analitzar l'ús del lloc per millorar l'experiència."
+                },
+                "marketing": {
+                    "label": "Màrqueting",
+                    "text": "s'utilitzen per mostrar contingut o publicitat rellevant."
+                }
+            },
+            "purpose": {
+                "title": "Finalitat de les cookies",
+                "text": "Les cookies s'utilitzen per recordar les teves preferències, analitzar el tràfic del lloc i millorar els serveis oferts."
+            },
+            "management": {
+                "title": "Gestió de cookies",
+                "text": "Pots acceptar, rebutjar o configurar les cookies utilitzant el sistema de gestió disponible en aquest lloc. Les teves preferències s'emmagatzemen al teu navegador."
+            },
+            "storage": {
+                "title": "Emmagatzematge de preferències",
+                "text": "Les preferències de cookies es desen al teu navegador mitjançant l'emmagatzematge local (localStorage), permetent recordar les teves opcions en visites futures."
+            },
+            "disable": {
+                "title": "Com desactivar les cookies",
+                "text": "Pots eliminar o blocar les cookies mitjançant la configuració del teu navegador. Tingues en compte que algunes funcions del lloc poden veure's afectades."
+            },
+            "third_party": {
+                "title": "Cookies de tercers",
+                "text": "En cas d'activar cookies analítiques o de màrqueting, es poden utilitzar serveis de tercers que recullen informació de manera anònima."
+            },
+            "legal_basis": {
+                "title": "Base legal",
+                "text": "L'ús de cookies no essencials es basa en el consentiment de l'usuari, el qual pot ser modificat en qualsevol moment."
+            },
+            "modifications": {
+                "title": "Modificacions",
+                "text": "Aquesta política de cookies pot actualitzar-se per adaptar-se a canvis legals o tècnics del lloc web."
+            }
+        }
+    },
+    "sponsors": {
+        "title": "Els nostres patrocinadors",
+        "support_out_project": "Suporta el nostre projecte.",
+        "become_a_sponsor": "Converteix-te en patrocinador"
+    },
+    "sponsors_page": {
+        "hero": {
+            "tag": "Aliances Estratègiques",
+            "title": "Els Nostres Patrocinadors",
+            "description": "Gràcies al suport d'empreses mecenes compromeses amb l'excel·lència i el desenvolupament, impulsem cadascun dels nostres projectes amb la màxima qualitat."
+        },
+        "current": {
+            "title": "Empreses que confien en nosaltres",
+            "online": "En línia",
+            "visit_web": "Visitar web"
+        },
+        "plans": {
+            "title": "Plans de Patrocini",
+            "subtitle": "Uneix-te a la nostra xarxa de col·laboradors i posiciona la teva marca davant la nostra comunitat amb opcions fetes a mida.",
+            "most_popular": "Més Popular",
+            "cta": "Unir-me com a Patrocinador"
+        },
+        "tiers": {
+            "bronze": {
+                "name": "Pla Bronze",
+                "period": "/ any",
+                "description": "Ideal per a petits comerços i professionals independents que volen donar suport al projecte.",
+                "features": [
+                    "Logotip a la secció general de Sponsors",
+                    "Enllaç directe 'dofollow' al teu lloc web",
+                    "Menció a les nostres xarxes socials",
+                    "Insígnia digital de col·laborador"
+                ]
+            },
+            "silver": {
+                "name": "Pla Plata",
+                "period": "/ any",
+                "description": "L'opció perfecta per a empreses consolidades que busquen visibilitat constant i destacada.",
+                "features": [
+                    "Tot el que s'inclou al Pla Bronze",
+                    "Posició preferent i destacada a la portada",
+                    "Fitxa corporativa a la pàgina de Patrocinadors",
+                    "Publicació de nota de premsa / article dedicat",
+                    "Suport prioritari i visibilitat en esdeveniments"
+                ]
+            },
+            "gold": {
+                "name": "Pla Or",
+                "period": "/ any",
+                "description": "Per a grans aliats estratègics que volen maximitzar el seu impacte corporatiu i presència global.",
+                "features": [
+                    "Tot el que s'inclou al Pla Plata",
+                    "Logo exclusiu a la capçalera / peu de pàgina global",
+                    "Bàner promocional personalitzat a la plataforma",
+                    "Co-branding en campanyes de comunicació principals",
+                    "Accés directe a col·laboracions exclusives"
+                ]
+            }
+        },
+        "custom": {
+            "title": "Necessites un pla a mida?",
+            "description": "Podem adaptar una proposta personalitzada d'acord amb els objectius específics de difusió i impacte de la teva empresa.",
+            "cta": "Contactar amb l'equip"
+        }
+    },
+    "themes": {
+        "light": "Clar",
+        "dark": "Fosc",
+        "system": "Sistema"
+    },
+    "contact_page": {
+        "contact_with_us": "Contacta amb nosaltres"
+    },
+    "footer": {
+        "all_rights_reserved": "Tots els drets reservats",
+        "manage_cookies": "Gestionar cookies"
+    },
+    "cookie_alert": {
+        "this_web": "Aquest lloc web utilitza cookies per millorar la teva experiència",
+        "more_info": "Més informació",
+        "reject_no_essentials": "Rebutjar no essencials",
+        "manage": "Gestionar",
+        "accept": "Acceptar"
+    },
+    "cookie_config": {
+        "title": "Preferències de cookies",
+        "description": "Fem servir cookies per millorar la teva experiència. Pots acceptar-les totes o configurar les teves preferències",
+        "essentials": "Cookies essencials",
+        "always_active": "Sempre actives",
+        "analytics": "Analítiques",
+        "marketing": "Màrqueting",
+        "more_info_about": "Més informació sobre la nostra",
+        "privacy_policy": "política de privacitat",
+        "decline": "Rebutjar",
+        "save": "Desar",
+        "accept_all": "Acceptar ho tot"
+    },
+    "sponsors_data": {
+        "official_sponsor": "Patrocinador Oficial",
+        "joan_olive": {
+            "name": "Joan Olivé S.L.",
+            "category": "Gestió de residus i reciclatge de fusta",
+            "description": "Amb més de 40 anys d'experiència, Joan Olivé S.L. és especialista en la recollida, tractament i reciclatge de residus de fusta, serradures i xip. Compromesos amb l'economia circular, recuperen fins al 80% del material per transformar-lo en adobs orgànics, llits per a granges i nova matèria primera ecològica."
+        },
+        "balas_de_viruta": {
+            "name": "Balas de Viruta",
+            "category": "Fabricació i distribució de viruta natural",
+            "description": "Especialistes en la fabricació, premsat i distribució de bales de viruta de fusta 100% natural i sense pols. Els seus productes destaquen per la seva alta capacitat d'absorció i protecció sanitària, sent la solució ideal per al llit i confort animal en granges, centres hìpics i ramaderia."
+        }
+    },
+    "confidences": [
+        {
+            "icon": "icon-[ph--handshake]",
+            "title": "Tracte proper",
+            "text": "Comunicació directa, clara i sense tecnicismes innecessaris."
+        },
+        {
+            "icon": "icon-[ph--clipboard-text]",
+            "title": "Pressupost clar",
+            "text": "Sempre abans de començar, sense sorpreses ni costos ocults."
+        },
+        {
+            "icon": "icon-[ph--clock]",
+            "title": "Resposta ràpida",
+            "text": "Valorem el teu temps i responem al més aviat possible."
+        },
+        {
+            "icon": "icon-[ph--seal-check]",
+            "title": "Treball responsable",
+            "text": "Cada servei es realitza amb atenció al detall i compromís."
+        }
+    ],
+    "planpage": {
+        "not_found": {
+            "title": "Pla no trobat",
+            "back_link": "Tornar a la llista de plans"
+        },
+        "back_to_all": "Tornar a tots els plans",
+        "benefits_included": "Beneficis inclosos:",
+        "form": {
+            "title": "Sol·licitar patrocini {name}",
+            "subtitle": "Omple el següent formulari i ens posarem en contacte amb tu al més aviat possible.",
+            "company_name": "Nom de l'empresa",
+            "company_name_placeholder": "Ex. Tech Solutions S.L.",
+            "contact_name": "Persona de contacte",
+            "contact_name_placeholder": "Ex. Maria García",
+            "email": "Correu electrònic",
+            "email_placeholder": "maria@empresa.com",
+            "phone": "Telèfon de contacte",
+            "phone_placeholder": "+34 600 000 000",
+            "notes": "Notes addicionals o comentaris",
+            "notes_placeholder": "Indica'ns qualsevol dubte o requisit especial...",
+            "submitting": "Enviant sol·licitud...",
+            "submit_button": "Sol·licitar Pla {name}",
+            "errors": {
+                "company_required": "El nom de l'empresa és obligatori.",
+                "contact_required": "El nom de contacte és obligatori.",
+                "email_required": "Introdueix un correu electrònic.",
+                "email_invalid": "Correu electrònic no vàlid.",
+                "submit_failed": "S'ha produït un error en enviar la sol·licitud.",
+                "phone_required": "El telèfon de contacte és obligatori."
+            },
+            "success": {
+                "title": "¡Sol·licitud rebuda!",
+                "message": "Gràcies pel teu interès en el pla {name}. El nostre equip revisarà la informació i es posarà en contacte molt aviat.",
+                "submitted": "Sol·licitud enviada correctament."
+            }
+        }
+    }
+}

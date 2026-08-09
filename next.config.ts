@@ -1,7 +1,14 @@
 import type { NextConfig } from "next";
+import nextIntl  from "next-intl/plugin";
+
+const withNextIntl = nextIntl("./i18n/request.ts");
 
 const nextConfig: NextConfig = {
-  /* config options here */
+  experimental: {
+    viewTransition: true,
+  },
+  devIndicators: false,
+  trailingSlash: true,
 };
 
-export default nextConfig;
+export default withNextIntl(nextConfig);

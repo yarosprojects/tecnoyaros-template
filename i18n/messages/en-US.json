@@ -1,0 +1,484 @@
+{
+    "title": "Hello world",
+    "countries": {
+        "spain": "Spain",
+        "france": "France",
+        "germany": "Germany",
+        "italy": "Italy",
+        "united_kingdom": "United Kingdom",
+        "portugal": "Portugal",
+        "netherlands": "Netherlands",
+        "belgium": "Belgium",
+        "switzerland": "Switzerland",
+        "austria": "Austria",
+        "sweden": "Sweden",
+        "norway": "Norway",
+        "denmark": "Denmark",
+        "ireland": "Ireland",
+        "poland": "Poland",
+        "greece": "Greece",
+        "finland": "Finland",
+        "czech_republic": "Czech Republic",
+        "hungary": "Hungary",
+        "romania": "Romania",
+        "ukraine": "Ukraine",
+        "russia": "Russia",
+        "belarus": "Belarus",
+        "turkey": "Turkey",
+        "serbia": "Serbia",
+        "croatia": "Croatia",
+        "bulgaria": "Bulgaria",
+        "slovakia": "Slovakia",
+        "lithuania": "Lithuania",
+        "latvia": "Latvia",
+        "estonia": "Estonia",
+        "slovenia": "Slovenia",
+        "luxembourg": "Luxembourg",
+        "andorra": "Andorra",
+        "malta": "Malta",
+        "iceland": "Iceland",
+        "monaco": "Monaco",
+        "moldova": "Moldova",
+        "cyprus": "Cyprus",
+        "montenegro": "Montenegro",
+        "north_macedonia": "North Macedonia",
+        "albania": "Albania",
+        "united_states": "United States",
+        "canada": "Canada",
+        "mexico": "Mexico",
+        "costa_rica": "Costa Rica",
+        "panama": "Panama",
+        "guatemala": "Guatemala",
+        "el_salvador": "El Salvador",
+        "honduras": "Honduras",
+        "nicaragua": "Nicaragua",
+        "cuba": "Cuba",
+        "dominican_republic": "Dominican Republic",
+        "puerto_rico": "Puerto Rico",
+        "brazil": "Brazil",
+        "argentina": "Argentina",
+        "chile": "Chile",
+        "colombia": "Colombia",
+        "peru": "Peru",
+        "venezuela": "Venezuela",
+        "ecuador": "Ecuador",
+        "bolivia": "Bolivia",
+        "paraguay": "Paraguay",
+        "uruguay": "Uruguay",
+        "japan": "Japan",
+        "south_korea": "South Korea",
+        "china": "China",
+        "india": "India",
+        "thailand": "Thailand",
+        "singapore": "Singapore",
+        "vietnam": "Vietnam",
+        "malaysia": "Malaysia",
+        "indonesia": "Indonesia",
+        "philippines": "Philippines",
+        "united_arab_emirates": "United Arab Emirates",
+        "saudi_arabia": "Saudi Arabia",
+        "israel": "Israel",
+        "qatar": "Qatar",
+        "south_africa": "South Africa",
+        "egypt": "Egypt",
+        "nigeria": "Nigeria",
+        "morocco": "Morocco",
+        "kenya": "Kenya",
+        "australia": "Australia",
+        "new_zealand": "New Zealand"
+    },
+    "form": {
+        "name": "Name",
+        "subject": "Subject",
+        "email": "Email",
+        "phone": "Phone",
+        "message": "Message",
+        "submit": "Submit",
+        "fields_marked_with": "Fields marked with an asterisk",
+        "are_mandatory": "are mandatory",
+        "reason_for_contact": "Reason for contact",
+        "errors": {
+            "email_required": "Please enter an email address.",
+            "email_invalid": "Invalid email address.",
+            "subject_required": "Please enter a subject.",
+            "reason_required": "Please enter the reason for contact.",
+            "privacy_required": "You must accept the privacy policy.",
+            "submit_failed": "An error occurred."
+        },
+        "success": {
+            "submitted": "Request sent successfully."
+        }
+    },
+    "search_tags": {
+        "no_results": "No results found for your search.",
+        "no_matches": "No matches",
+        "total": "Total",
+        "search_placeholder": "Search..."
+    },
+    "header": {
+        "months": {
+            "January": "January",
+            "February": "February",
+            "March": "March",
+            "April": "April",
+            "May": "May",
+            "June": "June",
+            "July": "July",
+            "August": "August",
+            "September": "September",
+            "October": "October",
+            "November": "November",
+            "December": "December"
+        }
+    },
+    "Home": {
+        "title": "High-quality professional services",
+        "slogan": "We are building this project with seriousness and dedication, taking care of each service as if it were unique.",
+        "float_labels": {
+            "objectives": "Objectives"
+        },
+        "why_trust_us": "Why trust this business?",
+        "we_are_working_with_focus": "We work with a professional, clear and transparent approach from the first contact.",
+        "texts": [
+            "Personalized solutions to client requests",
+            "Constant contact with the client",
+            "Responses adapted to the needs of each client",
+            "Clear and professional communication",
+            "Professional solutions based on real experience"
+        ],
+        "objectives": [
+            "Our main objective is to provide clear, efficient solutions tailored to each client's needs.",
+            "We work with a close and transparent approach so the client feels supported throughout the entire process.",
+            "We are committed to maintaining constant, clear, and professional communication during every phase of the project.",
+            "We guarantee reliable, high-quality results based on real experience and best practices.",
+            "Each project is developed with attention to detail, always aiming for maximum comfort for the client.",
+            "Our ultimate goal is to build trust by offering a solid, honest, and long-lasting service."
+        ],
+        "buttons": {
+            "viewServices": "View all services",
+            "requestService": "Request a service"
+        }
+    },
+    "aside": {
+        "links": {
+            "home": "Home",
+            "services": "Services",
+            "contact": "Contact",
+            "web_development": "Web development",
+            "ps_maintenance": "PlayStation maintenance",
+            "pc_maintenance": "PC maintenance",
+            "windows_formatting": "Windows formatting",
+            "pc_assembly": "PC assembly",
+            "privacy": "Privacy policy",
+            "cookies": "Cookies policy"
+        }
+    },
+    "services_tags": {
+        "title": "Services",
+        "request_tag": "Request service",
+        "request_button": "Request service",
+        "service_requested": "Service requested"
+    },
+    "const_services": {
+        "web_development": {
+            "label": "Web development",
+            "description": "Custom website development optimized for businesses and individuals, adapted to any device. Focused on performance, accessibility, and user experience, delivering modern and efficient solutions ready to grow with your business.",
+            "short": "Website creation"
+        },
+        "ps_maintenance": {
+            "label": "PlayStation console maintenance and cleaning",
+            "description": "Maintenance and cleaning service for PlayStation consoles, including dust removal, internal component inspection, software updates, and troubleshooting to ensure optimal performance.",
+            "short": "PlayStation maintenance"
+        },
+        "pc_maintenance": {
+            "label": "Maintenance, cleaning, and assembly of computers and laptops",
+            "description": "Comprehensive service for maintenance, cleaning, and assembly of computers and laptops, from internal cleaning to improve airflow to component installation and system performance optimization.",
+            "short": "PC maintenance"
+        },
+        "windows_formatting": {
+            "label": "Windows operating system formatting",
+            "description": "Windows formatting service including OS reinstallation, initial setup, and installation of drivers and essential software to ensure smooth and secure operation.",
+            "short": "Windows formatting"
+        },
+        "pc_assembly": {
+            "label": "PC assembly and maintenance",
+            "description": "PC assembly and maintenance service, from selecting and building custom components to regular maintenance to ensure optimal performance and longevity.",
+            "short": "PC assembly"
+        }
+    },
+    "privacy_tags": {
+        "privacy_policy": "Privacy Policy",
+        "accept_manage_my_data_v1": "I accept that my data may be used to respond to my inquiry.",
+        "for_more_details_consult_v1": " For more details, consult the"
+    },
+    "privacy": {
+        "updated_at": "Updated on",
+        "title": "Privacy Policy",
+        "intro": "In compliance with Regulation (EU) 2016/679 (GDPR) and Organic Law 3/2018 (LOPDGDD), users are informed of this privacy policy.",
+        "items": {
+            "controller": {
+                "title": "Data Controller:"
+            },
+            "data_collected": {
+                "title": "Collected Data:",
+                "desc": "We may collect information such as name, email address, phone number, and any data provided through contact forms, as well as browsing data."
+            },
+            "purpose": {
+                "title": "Purpose of Processing:",
+                "desc": "The data is used to manage requests, provide services, communicate with the user, and improve the website user experience."
+            },
+            "legal_basis": {
+                "title": "Legal Basis:",
+                "desc": "Data processing is based on user consent, performance of a contract, or compliance with legal obligations."
+            },
+            "retention": {
+                "title": "Data Retention:",
+                "desc": "Data will be retained for as long as necessary to fulfill the purpose for which it was collected or until the user requests its erasure."
+            },
+            "transfers": {
+                "title": "Data Disclosure:",
+                "desc": "Data will not be disclosed to third parties except under legal obligation or when necessary for providing the service (e.g., hosting providers)."
+            },
+            "rights": {
+                "title": "User Rights:",
+                "desc": "The user may exercise their rights of access, rectification, erasure, restriction, objection, and data portability by contacting the data controller."
+            },
+            "security": {
+                "title": "Security:",
+                "desc": "Appropriate technical and organizational measures are applied to protect personal data."
+            },
+            "cookies": {
+                "title": "Cookies:",
+                "desc": "This site may use cookies to improve user experience. It is recommended to review the cookie policy for more information."
+            },
+            "modifications": {
+                "title": "Modifications:",
+                "desc": "We reserve the right to modify this policy to adapt it to legislative updates or changes to the website itself."
+            }
+        }
+    },
+    "cookies_page": {
+        "updated_at": "Updated on {date}",
+        "title": "Cookie Policy",
+        "intro": "This website uses cookies to improve user experience, analyze site usage, and, in some cases, provide personalized content.",
+        "sections": {
+            "what_are": {
+                "title": "What are cookies?",
+                "text": "Cookies are small files stored on your device when you visit a website. They serve to remember information about your visit."
+            },
+            "types": {
+                "title": "Types of cookies used",
+                "intro": "This site uses different types of cookies:",
+                "necessary": {
+                    "label": "Necessary",
+                    "text": "essential for the basic operation of the site."
+                },
+                "analytics": {
+                    "label": "Analytics",
+                    "text": "allow analyzing site usage to improve experience."
+                },
+                "marketing": {
+                    "label": "Marketing",
+                    "text": "used to display relevant content or advertising."
+                }
+            },
+            "purpose": {
+                "title": "Purpose of cookies",
+                "text": "Cookies are used to remember your preferences, analyze site traffic, and improve the services offered."
+            },
+            "management": {
+                "title": "Cookie management",
+                "text": "You can accept, reject, or configure cookies using the management system available on this site. Your preferences are stored in your browser."
+            },
+            "storage": {
+                "title": "Preference storage",
+                "text": "Cookie preferences are saved in your browser using local storage (localStorage), allowing your choices to be remembered on future visits."
+            },
+            "disable": {
+                "title": "How to disable cookies",
+                "text": "You can delete or block cookies through your browser settings. Please note that some features of the site may be affected."
+            },
+            "third_party": {
+                "title": "Third-party cookies",
+                "text": "If analytics or marketing cookies are enabled, third-party services collecting anonymized information may be used."
+            },
+            "legal_basis": {
+                "title": "Legal basis",
+                "text": "The use of non-essential cookies is based on user consent, which can be modified at any time."
+            },
+            "modifications": {
+                "title": "Modifications",
+                "text": "This cookie policy may be updated to adapt to legal or technical changes to the website."
+            }
+        }
+    },
+    "sponsors": {
+        "title": "Our sponsors",
+        "support_out_project": "Support our project.",
+        "become_a_sponsor": "Become a sponsor"
+    },
+    "sponsors_page": {
+        "hero": {
+            "tag": "Strategic Partnerships",
+            "title": "Our Sponsors",
+            "description": "Thanks to the support of companies committed to excellence and development, we drive each of our projects forward with the highest quality."
+        },
+        "current": {
+            "title": "Companies that trust us",
+            "online": "Online",
+            "visit_web": "Visit website"
+        },
+        "plans": {
+            "title": "Sponsorship Plans",
+            "subtitle": "Join our network of partners and position your brand in front of our community with tailored options.",
+            "most_popular": "Most Popular",
+            "cta": "Join as a Sponsor"
+        },
+        "tiers": {
+            "bronze": {
+                "name": "Bronze Plan",
+                "period": "/ year",
+                "description": "Ideal for small businesses and independent professionals who want to support the project.",
+                "features": [
+                    "Logo in the main Sponsors section",
+                    "Direct 'dofollow' link to your website",
+                    "Mention on our social media networks",
+                    "Digital contributor badge"
+                ]
+            },
+            "silver": {
+                "name": "Silver Plan",
+                "period": "/ year",
+                "description": "The perfect option for established companies seeking consistent and prominent visibility.",
+                "features": [
+                    "Everything included in the Bronze Plan",
+                    "Prime and featured position on the homepage",
+                    "Corporate profile on the Sponsors page",
+                    "Publication of a press release / dedicated article",
+                    "Priority support and visibility at events"
+                ]
+            },
+            "gold": {
+                "name": "Gold Plan",
+                "period": "/ year",
+                "description": "For major strategic partners looking to maximize their corporate impact and global presence.",
+                "features": [
+                    "Everything included in the Silver Plan",
+                    "Exclusive logo in the global header / footer",
+                    "Custom promotional banner on the platform",
+                    "Co-branding in main communication campaigns",
+                    "Direct access to exclusive collaborations"
+                ]
+            }
+        },
+        "custom": {
+            "title": "Need a custom plan?",
+            "description": "We can adapt a personalized proposal tailored to your company's specific outreach and impact goals.",
+            "cta": "Contact the team"
+        }
+    },
+    "themes": {
+        "light": "Light",
+        "dark": "Dark",
+        "system": "System"
+    },
+    "contact_page": {
+        "contact_with_us": "Contact us"
+    },
+    "footer": {
+        "all_rights_reserved": "All rights reserved",
+        "manage_cookies": "Manage cookies"
+    },
+    "cookie_alert": {
+        "this_web": "This website uses cookies to ensure you get the best experience on our website.",
+        "more_info": "More information",
+        "reject_no_essentials": "Reject non-essential",
+        "manage": "Manage",
+        "accept": "Accept"
+    },
+    "cookie_config": {
+        "title": "Cookie preferences",
+        "description": "We are using cookies to enhance your experience. You can accept all or customize your preferences.",
+        "essentials": "Essentials cookies",
+        "always_active": "Always active",
+        "analytics": "Analytics",
+        "marketing": "Marketing",
+        "more_info_about": "For more information about our cookie policy, please visit our",
+        "privacy_policy": "privacy policy",
+        "decline": "Decline",
+        "save": "Save",
+        "accept_all": "Accept all"
+    },
+    "sponsors_data": {
+        "official_sponsor": "Official Sponsor",
+        "joan_olive": {
+            "name": "Joan Olivé S.L.",
+            "category": "Waste management and wood recycling",
+            "description": "With over 40 years of experience, Joan Olivé S.L. specializes in the collection, treatment, and recycling of wood waste, sawdust, and shavings. Committed to the circular economy, they recover up to 80% of the material to convert it into organic fertilizer, farm bedding, and new eco-friendly raw materials."
+        },
+        "balas_de_viruta": {
+            "name": "Balas de Viruta",
+            "category": "Manufacture and distribution of natural wood shavings",
+            "description": "Specialists in the production, baling, and distribution of 100% natural and dust-free wood shaving bales. Their products stand out for their high absorption capacity and sanitary protection, making them the ideal solution for animal bedding and comfort in farms, equestrian centers, and livestock facilities."
+        }
+    },
+    "confidences": [
+        {
+            "icon": "icon-[ph--handshake]",
+            "title": "Personal Touch",
+            "text": "Direct, clear communication without unnecessary jargon."
+        },
+        {
+            "icon": "icon-[ph--clipboard-text]",
+            "title": "Clear Budget",
+            "text": "Always upfront before starting, no surprises or hidden fees."
+        },
+        {
+            "icon": "icon-[ph--clock]",
+            "title": "Fast Response",
+            "text": "We value your time and reply as quickly as possible."
+        },
+        {
+            "icon": "icon-[ph--seal-check]",
+            "title": "Reliable Work",
+            "text": "Every service is delivered with attention to detail and commitment."
+        }
+    ],
+    "planpage": {
+        "not_found": {
+            "title": "Plan not found",
+            "back_link": "Back to plan list"
+        },
+        "back_to_all": "Back to all plans",
+        "benefits_included": "Benefits included:",
+        "form": {
+            "title": "Request sponsorship {name}",
+            "subtitle": "Fill out the form below and we will get back to you shortly.",
+            "company_name": "Company name",
+            "company_name_placeholder": "e.g. Tech Solutions Ltd.",
+            "contact_name": "Contact person",
+            "contact_name_placeholder": "e.g. Maria Garcia",
+            "email": "Email address",
+            "email_placeholder": "maria@company.com",
+            "phone": "Contact phone",
+            "phone_placeholder": "+34 600 000 000",
+            "notes": "Additional notes or comments",
+            "notes_placeholder": "Let us know about any questions or special requirements...",
+            "submitting": "Sending request...",
+            "submit_button": "Request Plan {name}",
+            "errors": {
+                "company_required": "Company name is required.",
+                "contact_required": "Contact person name is required.",
+                "email_required": "Please enter an email address.",
+                "email_invalid": "Invalid email address format.",
+                "submit_failed": "An error occurred while submitting the request.",
+                "phone_required": "Contact phone number is required."
+            },
+            "success": {
+                "title": "Request received!",
+                "message": "Thank you for your interest in the {name} plan. Our team will review your information and reach out very soon.",
+                "submitted": "Request submitted successfully."
+            }
+        }
+    }
+}

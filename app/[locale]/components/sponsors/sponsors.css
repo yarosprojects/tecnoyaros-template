@@ -1,0 +1,7 @@
+img.sponsor-image {
+    filter: brightness(0) invert(0);
+}
+
+.dark img.sponsor-image {
+    filter: brightness(0) invert(1);
+}
